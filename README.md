@@ -1,14 +1,15 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi There 👋, Im Zaychiku Zaychikuy</h1>
+<h1 align="center">Hi There 👋, Im Zaychiku</h1>
 <h3 align="center">I am a Front End Developer From Indonesia</h3>
-- 🔭 I’m currently working as a Software Engineer [Duivision](WIP)
-- 👯 I’m looking to collaborate on [Discord/etc](WIP)
-- 🤝 I’m looking for help with [Website Angkatan RPL-6](WIP)
-- 🌱 I’m currently learning **NextJS, NuxtJS, Jquery**
-- 💬 Ask me about **Javascript, Typescript, Tailwind & PHP**
-- 📫 How to reach me **nerllysurina@gmaiil.com**
-- 👨‍💻 All of my projects are available at **WIP**
-- 📝 I regularly write articles on **My Ideapad, cuz that make my brain++**
+<li>🔭 I’m currently working as a Software Engineer [Duivision](WIP) </li>
+<li> 👯 I’m looking to collaborate on [Discord/etc](WIP) </li>
+<li> 🤝 I’m looking for help with [Website Angkatan RPL-6](WIP) </li>
+<li> 🌱 I’m currently learning **NextJS, NuxtJS, Jquery** </li>
+<li>💬 Ask me about **Javascript, Typescript, Tailwind & PHP** </li>
+<li>📫 How to reach me **nerllysurina@gmaiil.com**</li>
+<li>👨‍💻 All of my projects are available at **WIP** </li>
+<li> 📝 I regularly write articles on **My Ideapad, cuz it will make my brain++** </li>
+<hr>
 
 <div> <a href="https://github.com/Ririenesu" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/elzaychikk" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
