@@ -6,7 +6,7 @@
 <li> 🤝 I’m looking for help with [Project Website RPL Angkatan-6](WIP) </li>
 <li> 🌱 I’m currently learning **NextJS, NuxtJS, Jquery** </li>
 <li>💬 Ask me about **Javascript, Typescript, Tailwind & PHP** </li>
-<li>📫 How to reach me **nerllysurina@gmaiil.com**</li>
+<li>📫 How to reach me **nerllysurina@gmail.com**</li>
 <li>👨‍💻 All of my projects are available at **WIP** </li>
 <li> 📝 I regularly write articles on **My Ideapad, cuz it will make my brain++** </li>
 <hr>
