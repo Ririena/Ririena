@@ -4,11 +4,11 @@
 <li>🔭 I’m currently working as a Software Engineer [Duivision](WIP) </li>
 <li> 👯 I’m looking to collaborate on [Discord/etc](WIP) </li>
 <li> 🤝 I’m looking for help with [Project Website RPL Angkatan-7](WIP) </li>
-<li> 🌱 I’m currently learning **NextJS, NuxtJS, Jquery** </li>
-<li>💬 Ask me about **Javascript, Typescript, Tailwind & PHP** </li>
-<li>📫 How to reach me **nerllysurina@gmail.com**</li>
-<li>👨‍💻 All of my projects are available at **WIP** </li>
-<li> 📝 I regularly write articles on **My Ideapad, cuz it will make my brain++** </li>
+<li> 🌱 I’m currently learning NextJS, NuxtJS, Jquery </li>
+<li>💬 Ask me about Javascript, Typescript, Tailwind & PHP </li>
+<li>📫 How to reach me nerllysurina@gmail.com</li>
+<li>👨‍💻 All of my projects are available at WIP </li>
+<li> 📝 I regularly write articles on **My Ideapad, cuz it will make my brain++ </li>
 <hr>
 
 <div> <a href="https://github.com/Ririenesu" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
