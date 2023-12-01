@@ -8,7 +8,7 @@
 <li>💬 Ask me about Javascript, Typescript, Tailwind & PHP </li>
 <li>📫 How to reach me nerllysurina@gmail.com</li>
 <li>👨‍💻 All of my projects are available at WIP </li>
-<li> 📝 I regularly write articles on **My Ideapad, cuz it will make my brain++ </li>
+<li> 📝 I regularly write articles on My Ideapad, cuz it will make my brain++ </li>
 <hr>
 
 <div> <a href="https://github.com/Ririenesu" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
