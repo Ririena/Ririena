@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi There 👋, Im Zaychiku</h1>
 <h3 align="center">I am a Front End Developer From Indonesia</h3>
-<li>🔭 I’m currently working as a Software Engineer [Duivision](WIP) </li>
+<li>🔭 I’m currently working as a Software Engineer [Duivion](WIP) </li>
 <li> 👯 I’m looking to collaborate on [Discord/etc](WIP) </li>
 <li> 🤝 I’m looking for help with [Project Website RPL Angkatan-7](WIP) </li>
 <li> 🌱 I’m currently learning NextJS, Laravel </li>
