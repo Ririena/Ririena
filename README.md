@@ -12,10 +12,10 @@
 
 <!-- About Me -->
 <ul>
-  <li>🔭 Currently working as a Software Engineer at [Duivion](WIP)</li>
+  <li>🔭 Currently working as a Software Engineer && Student At SMKN7 BALEENDAH</li>
   <li>👯 Looking to collaborate on [Discord/etc](WIP)</li>
   <li>🤝 Seeking help with [Project Website RPL Angkatan-7](WIP)</li>
-  <li>🌱 Currently learning NextJS and Laravel</li>
+  <li>🌱 Currently learning Laravel And NestJs</li>
   <li>💬 Ask me about JavaScript, TypeScript, Tailwind, and PHP</li>
   <li>📫 Reach me at nerllysurina@gmail.com</li>
   <li>👨‍💻 All of my projects are available at [WIP]</li>
