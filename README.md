@@ -4,7 +4,11 @@
 </div>
 <h1 align="center">Hi there 👋, I'm Zaychiku</h1>
 <h3 align="center">Front End Developer from Indonesia</h3>
-![](https://komarev.com/ghpvc/?username=Ririena&color=green)
+
+
+<a href="https://github.com/Ririena/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Ririena&style=for-the-badge">
+</a>
 
 <!-- About Me -->
 <ul>
