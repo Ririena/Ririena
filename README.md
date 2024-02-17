@@ -4,7 +4,7 @@
 </div>
 <h1 align="center">Hi there 👋, I'm Zaychiku</h1>
 <h3 align="center">Front End Developer from Indonesia</h3>
-![](https://komarev.com/ghpvc/?username=your-github-Ririena&color=green)
+![](https://komarev.com/ghpvc/?username=Ririena&color=green)
 
 <!-- About Me -->
 <ul>
