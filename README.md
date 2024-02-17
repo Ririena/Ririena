@@ -6,7 +6,7 @@
 <h3 align="center">Front End Developer from Indonesia</h3>
 
 
-<a href="https://github.com/Ririena/github-profile-views-counter">
+<a>
     <img src="https://komarev.com/ghpvc/?username=Ririena&style=for-the-badge">
 </a>
 
