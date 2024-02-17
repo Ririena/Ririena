@@ -1,5 +1,7 @@
 <!-- Header -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVlMTQ3cmg4bmUxZXR0bTI4bXMyOWlzNnl2MjhwZzdpbmhoOXdzcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/R4vLzUL8wZwje/giphy.gif" width="300" height="300" />
+<div align="center">
+<img src="assets/anime-violet.gif" style="display: block; width: 800px;"/>
+</div>
 <h1 align="center">Hi there 👋, I'm Zaychiku</h1>
 <h3 align="center">Front End Developer from Indonesia</h3>
 
