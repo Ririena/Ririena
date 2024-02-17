@@ -56,6 +56,12 @@
 </p>
 
 <!-- GitHub Stats -->
-<p align="center">
+<h1 align="center">My Stats</h1>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ririena&theme=dark&show_icons=true" alt="Zaychiku's GitHub Stats">
-</p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ririena&theme=dark&show_icons=true"/>
+</div>
+<div style="display: flex; justify-content: flex-end;">
+
+  
+</div>
