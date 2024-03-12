@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-<img src="assets/anime-violet.gif" style="display: block; width: 800px;"/>
+<img src="assets/giphy.gif" style="display: block; width: 800px;"/>
 </div>
 <h1 align="center">Hi there 👋, I'm Zaychiku</h1>
 <h3 align="center">Front End Developer from Indonesia</h3>
