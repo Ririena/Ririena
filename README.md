@@ -16,7 +16,7 @@
   <li>👯 Looking to collaborate on [Discord/etc](WIP)</li>
   <li>🤝 Seeking help with [Project Website RPL Angkatan-7](WIP)</li>
   <li>🌱 Currently learning Laravel And NestJs</li>
-  <li>💬 Ask me about JavaScript, TypeScript, Tailwind, and PHP</li>
+  <li>💬 Ask me about JavaScript, TypeScript, Tailwind</li>
   <li>📫 Reach me at nerllysurina@gmail.com</li>
   <li>👨‍💻 All of my projects are available at [WIP]</li>
   <li>📝 I regularly write articles on My Ideapad because it will make my brain++</li>
