@@ -12,7 +12,7 @@
 
 <!-- About Me -->
 <ul>
-  <li>🔭 Currently working as a Software Engineer && Student At SMKN7 BALEENDAH</li>
+  <li>🔭 Currently working as a Software Engineer(Duivion) && Student At SMKN7 BALEENDAH</li>
   <li>👯 Looking to collaborate on [Discord/etc](WIP)</li>
   <li>🤝 Seeking help with [Project Website RPL Angkatan-7](WIP)</li>
   <li>🌱 Currently learning Laravel And NestJs</li>
