@@ -6,10 +6,7 @@
 <h3 align="center">Front End Developer from Indonesia</h3>
 
 
-<a>
-    <img src="https://komarev.com/ghpvc/?username=Ririena&style=for-the-badge">
-</a>
-
+[![](https://visitcount.itsvg.in/api?id=Ririena&label=Profile%20Views&color=11&icon=7&pretty=true)](https://visitcount.itsvg.in)
 <!-- About Me -->
 <ul>
   <li>🔭 Currently working as a Software Engineer(Duivion) && Student At SMKN7 BALEENDAH</li>
