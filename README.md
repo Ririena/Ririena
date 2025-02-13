@@ -2,7 +2,7 @@
 <div align="center">
 <img src="assets/giphy.gif" style="display: block; width: 800px;"/>
 </div>
-<h1 align="center">Hi there 👋, I'm Ariena</h1>
+<h1 align="center">Hi there 👋</h1>
 <h3 align="center">Front End Developer from Indonesia</h3>
 
 
