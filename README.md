@@ -3,7 +3,7 @@
   <img src="assets/giphy.gif" width="800px" />
 </div>
 
-<h1 align="center">Hi there, I'm Zay </h1>
+<h1 align="center">Hi there, I'm Zay || YanYuee </h1>
 <h3 align="center">Front End Developer from Indonesia 🇮🇩</h3>
 
 <div align="center">
