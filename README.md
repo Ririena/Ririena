@@ -1,64 +1,93 @@
 <!-- Header -->
 <div align="center">
-<img src="assets/giphy.gif" style="display: block; width: 800px;"/>
-</div>
-<h1 align="center">Hi there, I'm Zay 👋</h1>
-<h3 align="center">Front End Developer from Indonesia</h3>
-
-
-[![](https://visitcount.itsvg.in/api?id=Ririena&label=Profile%20Views&color=11&icon=7&pretty=true)](https://visitcount.itsvg.in)
-<!-- About Me -->
-<ul>
-  <li>🔭 Currently working as a Software Engineer(Duivion) && Student At SMKN7 BALEENDAH</li>
-  <li>👯 Looking to collaborate on [Discord/etc](WIP) => Discord: zaychikuy</li>
-  <li>🤝 Seeking help with [Project Website RPL Angkatan-7](WIP)</li>
-  <li>🌱 Currently learning Laravel And NestJs</li>
-  <li>💬 Ask me about JavaScript, React, Tailwind</li>
-  <li>📫 Reach me at nerllysurina@gmail.com</li>
-  <li>👨‍💻 All of my projects are available at [WIP]</li>
-  <li>📝 I regularly write articles on My Ideapad because it will make my brain++</li>
-</ul>
-
-<hr>
-
-<!-- Social Links -->
-<div align="center"> 
-  <a href="https://github.com/Ririenesu" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/elzaychikk" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:nerllysurina@gmaiil.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <img src="assets/giphy.gif" width="800px" />
 </div>
 
-<!-- Connect with Me -->
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.youtube.com/c/Zaychikuy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="Zaychikuy" height="30" width="40" /></a>
-  <a href="https://instagram.com/elzaychikk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="elzaychikk" height="30" width="40" /></a>
-</p>
+<h1 align="center">Hi there, I'm Zay </h1>
+<h3 align="center">Front End Developer from Indonesia 🇮🇩</h3>
 
-<!-- Languages and Tools -->
-<h3 align="center">My Tech Stack🍀</h3>
-<p align="center">
-<!--   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="TypeScript" width="40" height="40"/> -->
-<!--   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/> -->
-<!--   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> -->
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-<!--   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/> -->
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
-</p>
-
-<!-- GitHub Stats -->
-<h1 align="center">My Stats</h1>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ririena&theme=dark&show_icons=true" alt="Zaychiku's GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ririena&theme=dark&show_icons=true"/>
+  <a href="https://visitcount.itsvg.in/api?id=Ririena&label=Profile%20Views&color=11&icon=7&pretty=true">
+    <img src="https://visitcount.itsvg.in/api?id=Ririena&label=Profile%20Views&color=11&icon=7&pretty=true" alt="Profile Views" />
+  </a>
 </div>
-<div style="display: flex; justify-content: flex-end;">
 
-  
+---
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px" />
+</div>
+
+<h2 style="text-align:center; color:#00C9A7;">About Me ✨</h2>
+
+<p style="text-align:center; font-size:16px; max-width:600px; margin:auto;">
+  Hi, I'm <b>Zay || YanYuee</b> — a passionate <span style="color:#FFA500;">Front-End Developer</span> from Indonesia 🇮🇩.<br/>
+  I enjoy building aesthetic, interactive, and efficient web applications.<br/>
+  Always learning, always growing 🌱
+</p>
+
+<br/>
+
+
+<br/>
+
+<div align="center" style="font-size:15px;">
+  🔭 Working at <b>Duivion Community(Personal Comm)</b> | 🏫 Student at <b>SMKN7 Baleendah</b><br/>
+  💬 Talk to me about <b>React, JavaScript, TailwindCSS</b><br/>
+  📫 Contact: <a href="mailto:nerllysurina@gmail.com">nerllysurina@gmail.com</a> | Discord: <code>zaychikuy</code>
+</div>
+
+---
+
+## 🌎 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/Ririenesu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/elzaychikk" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:nerllysurina@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 🛠 My Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
+      <br>Vue.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ririena&theme=dark&show_icons=true" alt="Zaychikuy's GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ririena&theme=dark&layout=compact" height="180em" />
 </div>
