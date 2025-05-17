@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hi there, I'm Zay || YanYuee </h1>
-<h3 align="center">Front End Developer from Indonesia 🇮🇩</h3>
+<h3 align="center">Front End Developer</h3>
 
 <div align="center">
   <a href="https://visitcount.itsvg.in/api?id=Ririena&label=Profile%20Views&color=11&icon=7&pretty=true">
