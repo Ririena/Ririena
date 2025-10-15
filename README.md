@@ -1,7 +1,7 @@
 <!-- Header -->
-<div align="center">
+<!-- <div align="center">
   <img src="assets/giphy.gif" width="800px" />
-</div>
+</div> -->
 
 <h1 align="center">Hi there, I'm Zay - Yang Yuelin(CN) </h1>
 <h3 align="center">Front End Developer</h3>
