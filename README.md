@@ -17,9 +17,9 @@
 ---
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px" />
-</div>
+</div> -->
 
 <h2 style="text-align:center; color:#00C9A7;">About Me ✨</h2>
 
