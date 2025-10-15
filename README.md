@@ -6,9 +6,8 @@
 <h1 align="center">Hi there, I'm Zay - Yang Yuelin(CN) </h1>
 <h3 align="center">Front End Developer</h3>
 
-<div align="center">
 ![](https://komarev.com/ghpvc/?username=Ririena)
-</div>
+
 
 <!-- <div align="center">
   <a href="https://visitcount.itsvg.in/api?id=Ririena&label=Profile%20Views&color=11&icon=7&pretty=true">
