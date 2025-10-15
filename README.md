@@ -3,14 +3,16 @@
   <img src="assets/giphy.gif" width="800px" />
 </div>
 
-<h1 align="center">Hi there, I'm Zay || YanYuee </h1>
+<h1 align="center">Hi there, I'm Zay - Yang Yuelin(CN) </h1>
 <h3 align="center">Front End Developer</h3>
 
-<div align="center">
+![](https://komarev.com/ghpvc/?username=Ririena)
+
+<!-- <div align="center">
   <a href="https://visitcount.itsvg.in/api?id=Ririena&label=Profile%20Views&color=11&icon=7&pretty=true">
     <img src="https://visitcount.itsvg.in/api?id=Ririena&label=Profile%20Views&color=11&icon=7&pretty=true" alt="Profile Views" />
   </a>
-</div>
+</div> -->
 
 ---
 
@@ -22,7 +24,7 @@
 <h2 style="text-align:center; color:#00C9A7;">About Me ✨</h2>
 
 <p style="text-align:center; font-size:16px; max-width:600px; margin:auto;">
-  Hi, I'm <b>Zay || YanYuee</b> — a passionate <span style="color:#FFA500;">Front-End Developer</span> from Indonesia 🇮🇩.<br/>
+  Hi, I'm <b>Zay || Yang Yuelin(CN)</b> — a passionate <span style="color:#FFA500;">Front-End Developer</span> from Indonesia 🇮🇩.<br/>
   I enjoy building aesthetic, interactive, and efficient web applications.<br/>
   Always learning, always growing 🌱
 </p>
