@@ -1,5 +1,5 @@
 <h1 align="center">✨ Zay | 杨月琳 (Yang Yuelin) ✨</h1>
-<h3 align="center">Front-End Developer • Aesthetic & Interactive Web Builder</h3>
+<h3 align="center">Front-End Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ririena&color=7F00FF&style=for-the-badge" alt="profile views" />
